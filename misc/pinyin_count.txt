@@ -448,7 +448,7 @@ kexuan 3
 keyan 5
 keyi 9
 keyong 1
-kong 26
+kong 27
 kongbai 1
 kongge 1
 kongzhi 6
@@ -622,7 +622,7 @@ rongcuo 1
 rongxing 1
 ru 2
 ruanjian 1
-ruguo 31
+ruguo 32
 rukou 3
 ruxia 2
 san 3
@@ -780,7 +780,7 @@ xia 9
 xiaci 1
 xiafang 5
 xian 2 1
-xiang 4 1 1
+xiang 5 1 1
 xiangdui 1
 xiangduiyu 2
 xiangguan 15
@@ -859,7 +859,7 @@ yiduan 2
 yidui 1
 yige 10
 yigege 1
-yiji 2
+yiji 3
 yijing 2
 yiliao 1
 yiming 2 1
@@ -987,7 +987,7 @@ zidingyi 2
 zidong 37
 ziduan 16
 zifu 1
-zifuchuan 13
+zifuchuan 14
 ziji 1
 zishen 2
 ziti 1
