@@ -78,7 +78,7 @@ buzu 2
 buzuo 2
 cai 21 1
 caidan 1
-caige 48
+caige 49
 cang 1 1 1
 cangcang 1
 cangcangku 1
@@ -152,7 +152,7 @@ cunqu 1
 cunzai 6
 cuo 1
 cuowu 9
-d 205
+d 206
 da 13
 daan 4
 dadui 2
@@ -550,7 +550,7 @@ paihang 1
 paijiang 1
 paiming 1
 panduan 7
-peizhi 30
+peizhi 32
 pengzhuang 1
 pi 2
 piantou 1
@@ -585,7 +585,7 @@ qijian 1
 qing 10
 qingkan 1
 qingkong 4
-qingkuang 5
+qingkuang 6
 qingli 3
 qingqiu 1
 qingwu 2
@@ -697,10 +697,10 @@ suo 1
 suoyin 2
 suoyou 8
 tebie 3
-teshu 1
+teshu 2
 ti 11
 tian 2 1
-tianjia 45
+tianjia 46
 tiaojian 1
 tiaoshi 13
 tiaozheng 6
@@ -877,7 +877,7 @@ yishang 8
 yiti 1
 yiwancheng 2
 yixia 14 2
-yixie 6
+yixie 7
 yiyang 1
 yiyi 2
 yizhi 2
@@ -950,7 +950,7 @@ zhengshu 1 1
 zhengzai 9
 zhenlv 2
 zhenren 4
-zhenrenban 6
+zhenrenban 7
 zhenshi 1
 zhewei 2
 zhexie 2
