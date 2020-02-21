@@ -646,7 +646,7 @@ shengdao 3
 shenmi 3
 shenqing 1
 shezhi 11
-shi 84 15 8 4 1 1 1 1
+shi 84 16 8 4 1 1 1 1
 shibai 15
 shibie 7
 shichang 12
@@ -939,7 +939,7 @@ zhanshi 14
 zhanyong 1
 zhaopian 1
 zhaopianqiang 1
-zhe 2 1
+zhe 3 1
 zheli 1
 zhen 2 1
 zheng 2
@@ -952,7 +952,7 @@ zhenlv 2
 zhenren 4
 zhenrenban 6
 zhenshi 1
-zhewei 1
+zhewei 2
 zhexie 2
 zhezhong 2
 zhi 12 4 3
