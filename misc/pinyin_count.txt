@@ -91,7 +91,7 @@ ce 2
 ceng 2 1
 ceshi 48
 cha 1
-chajian 1
+chajian 2
 chakan 2
 chang 3 2 1
 changan 1
@@ -152,7 +152,7 @@ cunqu 1
 cunzai 6
 cuo 1
 cuowu 9
-d 207
+d 208
 da 13
 daan 4
 dadui 2
@@ -169,7 +169,7 @@ dangranshi 1
 danshi 1
 danwei 7
 danxiang 2
-dao 37 1
+dao 38 1
 daoju 2
 dashi 1
 dati 1 1
@@ -271,6 +271,7 @@ fuwuduan 2
 fuwuqi 6
 fuza 6
 fuzadu 1
+fuzhi 1
 ga 2
 gadiaoyong 1
 gai 16
@@ -529,7 +530,7 @@ mouxie 1
 mowei 3
 moxing 17
 mubiao 1
-mulu 5
+mulu 7
 mulushu 1
 muqian 6
 n 2
@@ -776,7 +777,7 @@ wuxiao 2
 wuxu 2
 wuyiyi 1
 xi 1 1
-xia 9
+xia 10
 xiaci 1
 xiafang 5
 xian 2 1
