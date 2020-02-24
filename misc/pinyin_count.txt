@@ -651,7 +651,7 @@ shi 84 16 8 4 1 1 1 1
 shibai 15
 shibie 7
 shichang 12
-shifou 20
+shifou 21
 shih 1
 shiji 6
 shijian 41 27
@@ -758,7 +758,7 @@ weixin 5
 weiyi 5
 weizhi 9 2
 wendang 1
-wenjian 39
+wenjian 40
 wenjianming 1
 wenjuan 4
 wenti 17
@@ -889,7 +889,7 @@ yonghu 29
 yongtu 1
 yongyou 1
 yongyu 11
-you 28 18
+you 29 18
 youhua 5
 youkeneng 3
 youqi 2
