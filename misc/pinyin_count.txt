@@ -2,7 +2,7 @@ a 6 2
 ai 1
 an 4
 anzhao 3
-anzhuang 2
+anzhuang 3
 ba 3 1 1
 bai 1
 ban 6 4 1
@@ -169,7 +169,7 @@ dangranshi 1
 danshi 1
 danwei 7
 danxiang 2
-dao 36 1
+dao 37 1
 daoju 2
 dashi 1
 dati 1 1
