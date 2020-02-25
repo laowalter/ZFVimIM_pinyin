@@ -800,7 +800,7 @@ xiaoxiao 1 1
 xiaoxin 1
 xiayichang 3
 xiayishou 2
-xiazai 5
+xiazai 6
 xie 1 1
 xieli 1
 xielou 2
