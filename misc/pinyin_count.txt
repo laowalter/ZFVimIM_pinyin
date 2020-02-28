@@ -33,7 +33,7 @@ bendi 8
 bi 1 1
 bianhua 2
 bianji 2
-bianma 6
+bianma 7
 bianyi 1
 biaoji 1
 biaoshi 12
@@ -453,7 +453,7 @@ kong 28
 kongbai 1
 kongge 1
 kongzhi 6
-ku 8 1
+ku 9 1
 kuaijie 1
 kuaijiejian 1
 kuaile 1
