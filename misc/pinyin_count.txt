@@ -34,7 +34,7 @@ bi 1 1
 bianhua 2
 bianji 2
 bianma 7
-bianyi 1
+bianyi 2
 biaoji 1
 biaoshi 12
 biaozhi 3
@@ -453,7 +453,7 @@ kong 28
 kongbai 1
 kongge 1
 kongzhi 6
-ku 9 1
+ku 10 1
 kuaijie 1
 kuaijiejian 1
 kuaile 1
@@ -750,6 +750,7 @@ wangye 27
 wanjia 5
 wanquan 1
 wanshan 1
+wanzheng 1
 wei 98 8
 weigeshi 1
 weile 1
@@ -832,7 +833,7 @@ xuanze 12
 xunhuan 2
 xuni 1
 xuqiu 1
-xuyao 36
+xuyao 37
 xuzifuchuan 1
 yan 1 1
 yanchang 3
