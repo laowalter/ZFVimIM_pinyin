@@ -57,7 +57,7 @@ buchong 1
 buchuan 1
 budao 1
 bufa 1
-bufen 13
+bufen 14
 buhui 2
 buju 1
 bulun 1
@@ -616,6 +616,7 @@ rangwo 1
 ranhou 1
 re 1
 ren 5
+renhe 1
 renwei 1
 renwu 2
 rizhi 6
@@ -767,7 +768,7 @@ wenzi 2
 wo 1
 wode 2
 wom 1
-wu 6 1 1 1
+wu 7 1 1 1
 wucha 1
 wudi 1
 wufa 8
@@ -863,6 +864,7 @@ yige 10
 yigege 1
 yiji 3
 yijing 2
+yilai 1
 yiliao 1
 yiming 2 1
 yincang 7
