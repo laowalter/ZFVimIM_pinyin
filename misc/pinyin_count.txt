@@ -528,7 +528,7 @@ moren 27
 moshi 12
 mouxie 1
 mowei 3
-moxing 17
+moxing 18
 mubiao 1
 mulu 7
 mulushu 1
@@ -677,6 +677,7 @@ shouji 9
 shoujiduan 9
 shoujihao 1
 shouquan 1
+shouxian 1
 shu 4 1
 shuchu 13
 shuju 23
