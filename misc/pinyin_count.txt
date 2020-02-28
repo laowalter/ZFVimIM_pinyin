@@ -73,7 +73,7 @@ buyong 2
 buzai 3
 buzheng 1
 buzhengque 1
-buzhichi 1
+buzhichi 2
 buzu 2
 buzuo 2
 cai 21 1
@@ -301,7 +301,7 @@ gezi 1
 gong 2
 gongju 2
 gongke 1
-gongneng 10
+gongneng 11
 gou 1
 gouzao 1
 gu 1 1
@@ -453,7 +453,7 @@ kong 28
 kongbai 1
 kongge 1
 kongzhi 6
-ku 10 1
+ku 11 1
 kuaijie 1
 kuaijiejian 1
 kuaile 1
@@ -510,7 +510,7 @@ meici 1
 meige 3
 meiguan 1
 meiguanxi 2
-meiyou 16
+meiyou 17
 men 1
 mi 12
 mianban 1
@@ -880,7 +880,7 @@ yiqi 1
 yishang 8
 yiti 1
 yiwancheng 2
-yixia 14 2
+yixia 15 2
 yixie 7
 yiyang 1
 yiyi 2
@@ -902,7 +902,7 @@ youxian 2 1
 youyige 1
 youyiyi 2
 youyouxi 1
-youyu 3
+youyu 4
 yu 13 1 1
 yuan 2
 yuanben 1
